@@ -1,4 +1,4 @@
-package sample.spring.core;
+package org.spring.core.sample;
 public class HelloWorld {
    private String message;
 
